@@ -1,0 +1,18 @@
+Suppose you are a master's student in embedded software engineering. 
+I will give you a paper, please write a review. 
+Each of reviews must be a minimum of 400 words and should, for your guidance, answer the following questions: 
+
+1. What are the main technical contributions of the paper/talk?
+2. What are possible applications of the work?
+3. What are possible future extensions of the work?
+4. Why did you choose this paper/talk? Explain your interest in this topic and how this paper furthered your knowledge of the topic.
+5. Your name, date of your paper review, and scholarly citation:
+
+Your Personal Information:
+Your name: Xukang Wang 
+Date of your paper review: 1/23/2025
+
+For paper: Author(s), paper title, journal or conference proceeding, date, and page numbers
+
+scholarly citation: A. Radosevic, R. Ahmed, T. M. Duman, J. G. Proakis and M. Stojanovic, "Adaptive OFDM Modulation for Underwater Acoustic Communications: Design Considerations and Experimental Results," in IEEE Journal of Oceanic Engineering, vol. 39, no. 2, pp. 357-370, April 2014, doi: 10.1109/JOE.2013.2253212.
+keywords: {Adaptive modulation;feedback;orthogonal frequency-division multiplexing (OFDM);underwater acoustic (UWA) communication},
