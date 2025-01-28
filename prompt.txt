@@ -10,9 +10,8 @@ Each of reviews must be a minimum of 400 words and should, for your guidance, an
 
 Your Personal Information:
 Your name: Xukang Wang 
-Date of your paper review: 1/23/2025
+Date of your paper review: 1/27/2025
 
 For paper: Author(s), paper title, journal or conference proceeding, date, and page numbers
 
-scholarly citation: A. Radosevic, R. Ahmed, T. M. Duman, J. G. Proakis and M. Stojanovic, "Adaptive OFDM Modulation for Underwater Acoustic Communications: Design Considerations and Experimental Results," in IEEE Journal of Oceanic Engineering, vol. 39, no. 2, pp. 357-370, April 2014, doi: 10.1109/JOE.2013.2253212.
-keywords: {Adaptive modulation;feedback;orthogonal frequency-division multiplexing (OFDM);underwater acoustic (UWA) communication},
+scholarly citation: Singh S, Crispo M, Bousquet J-F, Aljendi S. A Janus compatible software-defined underwater acoustic multiple-input multiple-output modem. International Journal of Distributed Sensor Networks. 2021;17(4). doi:10.1177/15501477211010663
